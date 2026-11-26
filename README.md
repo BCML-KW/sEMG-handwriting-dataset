@@ -80,7 +80,7 @@ relative to the point where the pen first touched the tablet.
 **sEMG**
 
 - Device: Thalmic Labs Myo armband, 8 channels, 200 Hz, raw mode
-- Placement: worn on the wrist of the writing arm, with the same orientation in all
+- Placement: worn on the forearm of the writing arm, with the same orientation in all
   recording sessions
 
 **Pen tablet**
